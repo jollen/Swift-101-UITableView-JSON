@@ -9,3 +9,6 @@
 * 學習 UITableView
 * 學習 JSON 解析
 
+## Screen Shots
+
+![image](https://raw.githubusercontent.com/jollen/Swift-101-UITableView-JSON/master/screenshots1.png)
